@@ -13,7 +13,4 @@ I’m a Python Developer building Full stack projects using Angular, TypeScript,
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohit-ahlawat001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
----
-[![](https://komarev.com/ghpvc/?username=rohit-ahlawat001&icon=0&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
